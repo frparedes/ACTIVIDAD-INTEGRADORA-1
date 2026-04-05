@@ -1,0 +1,22 @@
+  .mi-boton {
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Tamaño del botón */
+    text-decoration: none; /* Elimina subrayado */
+    border-radius: 5px; /* Bordes redondeados */
+    display: inline-block; /* Ajusta el tamaño */
+    font-family: Arial, sans-serif;
+  }
+
+  .letra
+  {
+    font-family: 'Krub', 'Times New Roman', Times, serif;
+  }
+
+
+  body {
+  background-image: url('fondo 2.avif'); /* Ruta de tu archivo */
+  background-size: cover;               /* Ajusta la imagen para cubrir todo el fondo */
+  background-repeat: no-repeat;         /* Evita que la imagen se repita */
+  background-position: center;          /* Centra la imagen */
+  background-attachment: fixed;         /* Deja el fondo fijo al hacer scroll */
+}
